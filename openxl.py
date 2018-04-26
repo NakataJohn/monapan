@@ -52,6 +52,8 @@ for r in range(2,sheet.max_row+1):
 	
 nwb.save('result.xlsx')
 
+#修复了一些bug
+
 	
 	
 	
